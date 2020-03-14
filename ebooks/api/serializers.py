@@ -5,7 +5,7 @@ from ..models import Ebook, Review
 class ReviewSerializer(serializers.ModelSerializer):
     class Meta:
         model = Review
-        field = "__all__"
+        fields = "__all__"
 
 
 class EbookSerializer(serializers.ModelSerializer):
