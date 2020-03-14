@@ -3,7 +3,7 @@
 ## With Generic API Views and Mixins:
 ## Generic class based views
 ## Permissions
-## Results Paginations
+## Pagination
 
 ### One of the key benefits of using the Generic Views in Django as in Django
 One of the key benefits of using the Generic Views in Django as in Django
