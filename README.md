@@ -1,6 +1,10 @@
 # DJANGO REST FRAMWORK APPLICATION
 
 ## With Generic API Views and Mixins:
+## Generic class based views
+## Permissions
+## Results Paginations
+
 ### One of the key benefits of using the Generic Views in Django as in Django
 One of the key benefits of using the Generic Views in Django as in Django
 REST Framework, is that these offer us a large amount of ready-to-use code
